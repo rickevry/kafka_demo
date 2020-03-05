@@ -1,0 +1,8 @@
+C:\github\kafka_demo\KafkaConsole\bin\Debug\netcoreapp2.2\KafkaConsole.deps.json
+C:\github\kafka_demo\KafkaConsole\bin\Debug\netcoreapp2.2\KafkaConsole.runtimeconfig.json
+C:\github\kafka_demo\KafkaConsole\bin\Debug\netcoreapp2.2\KafkaConsole.runtimeconfig.dev.json
+C:\github\kafka_demo\KafkaConsole\bin\Debug\netcoreapp2.2\KafkaConsole.dll
+C:\github\kafka_demo\KafkaConsole\obj\Debug\netcoreapp2.2\KafkaConsole.csprojAssemblyReference.cache
+C:\github\kafka_demo\KafkaConsole\obj\Debug\netcoreapp2.2\KafkaConsole.csproj.CoreCompileInputs.cache
+C:\github\kafka_demo\KafkaConsole\obj\Debug\netcoreapp2.2\KafkaConsole.AssemblyInfoInputs.cache
+C:\github\kafka_demo\KafkaConsole\obj\Debug\netcoreapp2.2\KafkaConsole.AssemblyInfo.cs
